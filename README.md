@@ -9,7 +9,7 @@ Autonomous Driving Data Augmentation" (accepted at IEEE IV 2026) by Thérèse Ti
 
 ## Edited videos
 Here are some examples of style editing on driving videos from [**BDD100K**](https://github.com/bdd100k/bdd100k).
-For each video, you can watch the input video, results from two baselines ([**VidToMe**](https://github.com/lixirui142/VidToMe) and [**RAVE**](https://github.com/rehg-lab/RAVE)), and our results.
+For each video, you can watch the compressed version of the input video, results from two baselines ([**VidToMe**](https://github.com/lixirui142/VidToMe) and [**RAVE**](https://github.com/rehg-lab/RAVE)), and our results.
 Detected objects are aggregated into three classes: "vehicle" in red, "VRU" in green and "traffic sign" in blue.
 
 <figure>
