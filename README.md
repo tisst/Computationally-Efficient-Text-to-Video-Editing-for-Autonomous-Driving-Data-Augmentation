@@ -12,14 +12,17 @@ Here are some examples of style editing on driving videos from [**BDD100K**](htt
 For each video, you can watch the input video, results from two baselines ([**VidToMe**](https://github.com/lixirui142/VidToMe) and [**RAVE**](https://github.com/rehg-lab/RAVE)), and our results.
 Detected objects are aggregated into three classes: "vehicle" in red, "VRU" in green and "traffic sign" in blue.
 
+<figure>
+  <figcaption><strong>Video 1:</strong> Night Driving — Style Editing Comparison</figcaption>
+  <video src="[Night](https://github.com/user-attachments/assets/8bfc2ecb-1968-4675-abe6-2fc84702eb73)"
+         autoplay
+         loop
+         muted
+         playsinline
+         width="800">
+  </video>
+</figure>
 
-<video src="https://github.com/user-attachments/assets/8bfc2ecb-1968-4675-abe6-2fc84702eb73"
-       autoplay
-       loop
-       muted
-       playsinline
-       width="800">
-</video>
 
 https://github.com/user-attachments/assets/8bfc2ecb-1968-4675-abe6-2fc84702eb73
 
