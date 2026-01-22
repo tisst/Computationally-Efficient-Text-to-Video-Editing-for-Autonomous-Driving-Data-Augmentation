@@ -13,8 +13,8 @@ For each video, you can watch the input video, results from two baselines ([**Vi
 Detected objects are aggregated into three classes: "vehicle" in red, "VRU" in green and "traffic sign" in blue.
 
 <figure>
-  <figcaption><strong>Video 1:</strong> Night Driving — Style Editing Comparison</figcaption>
-  <video src="[Night](https://github.com/user-attachments/assets/8bfc2ecb-1968-4675-abe6-2fc84702eb73)"
+  <figcaption><strong>Video 1:</strong> Driving during night </figcaption>
+  <video src="[Night](https://github.com/user-attachments/assets/23e34f43-622f-4556-863e-d6fce1a8805a)"
          autoplay
          loop
          muted
@@ -23,18 +23,36 @@ Detected objects are aggregated into three classes: "vehicle" in red, "VRU" in g
   </video>
 </figure>
 
+<figure>
+  <figcaption><strong>Video 2:</strong> Driving on a snowy road </figcaption>
+  <video src="[Night](https://github.com/user-attachments/assets/63f786f6-fcb2-4b5b-bb14-8109261d19ff)"
+         autoplay
+         loop
+         muted
+         playsinline
+         width="800">
+  </video>
+</figure>
 
-https://github.com/user-attachments/assets/8bfc2ecb-1968-4675-abe6-2fc84702eb73
+<figure>
+  <figcaption><strong>Video 3:</strong> Driving during night </figcaption>
+  <video src="[Snow](https://github.com/user-attachments/assets/c2aea85f-5dc2-48bc-a418-9d4c7ee39f50)"
+         autoplay
+         loop
+         muted
+         playsinline
+         width="800">
+  </video>
+</figure>
 
-
-https://github.com/user-attachments/assets/3e9edf36-be44-4215-95b8-33da63a56d8b
-
-
-
-https://github.com/user-attachments/assets/6f167893-7a00-41a3-8caa-18a7302c93d5
-
-
-
-https://github.com/user-attachments/assets/2124c200-003a-400d-8cac-8ba53867a124
-
+<figure>
+  <figcaption><strong>Video 4:</strong> Driving on a snowy road </figcaption>
+  <video src="[Snow](https://github.com/user-attachments/assets/051b609e-1db4-4688-913a-f79681466d8a)"
+         autoplay
+         loop
+         muted
+         playsinline
+         width="800">
+  </video>
+</figure>
 
