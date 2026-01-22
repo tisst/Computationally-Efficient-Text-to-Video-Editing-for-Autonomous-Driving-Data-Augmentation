@@ -14,7 +14,7 @@ Detected objects are aggregated into three classes: "vehicle" in red, "VRU" in g
 
 <figure>
   <figcaption><strong>Video 1:</strong> Driving during night </figcaption>
-  <video src="[Night](https://github.com/user-attachments/assets/23e34f43-622f-4556-863e-d6fce1a8805a)"
+  <video src="https://github.com/user-attachments/assets/23e34f43-622f-4556-863e-d6fce1a8805a"
          autoplay
          loop
          muted
@@ -25,7 +25,7 @@ Detected objects are aggregated into three classes: "vehicle" in red, "VRU" in g
 
 <figure>
   <figcaption><strong>Video 2:</strong> Driving on a snowy road </figcaption>
-  <video src="[Night](https://github.com/user-attachments/assets/63f786f6-fcb2-4b5b-bb14-8109261d19ff)"
+  <video src="https://github.com/user-attachments/assets/63f786f6-fcb2-4b5b-bb14-8109261d19ff"
          autoplay
          loop
          muted
@@ -36,7 +36,7 @@ Detected objects are aggregated into three classes: "vehicle" in red, "VRU" in g
 
 <figure>
   <figcaption><strong>Video 3:</strong> Driving during night </figcaption>
-  <video src="[Snow](https://github.com/user-attachments/assets/c2aea85f-5dc2-48bc-a418-9d4c7ee39f50)"
+  <video src="https://github.com/user-attachments/assets/c2aea85f-5dc2-48bc-a418-9d4c7ee39f50"
          autoplay
          loop
          muted
@@ -47,7 +47,7 @@ Detected objects are aggregated into three classes: "vehicle" in red, "VRU" in g
 
 <figure>
   <figcaption><strong>Video 4:</strong> Driving on a snowy road </figcaption>
-  <video src="[Snow](https://github.com/user-attachments/assets/051b609e-1db4-4688-913a-f79681466d8a)"
+  <video src="https://github.com/user-attachments/assets/051b609e-1db4-4688-913a-f79681466d8a"
          autoplay
          loop
          muted
