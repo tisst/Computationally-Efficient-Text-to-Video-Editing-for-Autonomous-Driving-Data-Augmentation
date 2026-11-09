@@ -1,5 +1,5 @@
 # Computationally-Efficient-Text-to-Video-Editing-for-Autonomous-Driving-Data-Augmentation
-IEEE IV 2026
+**IEEE IV 2026**
 
 ![overview](https://github.com/user-attachments/assets/b23af282-f97b-4e89-89b2-41fa14210e31)
 
@@ -56,3 +56,15 @@ Detected objects are aggregated into three classes: "vehicle" in red, "VRU" in g
   </video>
 </figure>
 
+## Citation 
+
+```
+@inproceedings{des2026computationally,
+  title={Computationally Efficient Text-to-Video Editing for Autonomous Driving Data Augmentation},
+  author={Tisseau des Escotais, Th{\'e}r{\`e}se and Diakite, Adam and Leroy, Bertrand and Ibanez-Guzman, Javier and Rambour, Cl{\'e}ment and Breloy, Arnaud},
+  booktitle={2026 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={243--248},
+  year={2026},
+  organization={IEEE}
+}
+```
